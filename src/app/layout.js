@@ -8,8 +8,8 @@ const poppins = Poppins({
 });
 
 export const metadata = {
-  title: "Rezaa",
-  description: "Pohonlink by Rezaa",
+  title: "Nizarr | PohonLink",
+  description: "Pohonlink by Nizar",
 };
 
 export default function RootLayout({ children }) {
